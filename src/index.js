@@ -7,13 +7,13 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.lm379.cf": dockerHub,
-  "quay.lm379.cf": "https://quay.io",
-  "gcr.lm379.cf": "https://gcr.io",
-  "k8s-gcr.lm379.cf": "https://k8s.gcr.io",
-  "k8s.lm379.cf": "https://registry.k8s.io",
-  "ghcr.lm379.cf": "https://ghcr.io",
-  "cloudsmith.lm379.cf": "https://docker.cloudsmith.io",
+  "docker.w12.top": dockerHub,
+  "quay.w12.top": "https://quay.io",
+  "gcr.w12.top": "https://gcr.io",
+  "k8s-gcr.w12.top": "https://k8s.gcr.io",
+  "k8s.w12.top": "https://registry.k8s.io",
+  "ghcr.w12.top": "https://ghcr.io",
+  "cloudsmith.w12.top": "https://docker.cloudsmith.io",
 
   // staging
   "docker-staging.lm379.cf": dockerHub,
